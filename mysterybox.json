@@ -3,7 +3,7 @@
   "symbol": "BOX",
   "description": "Congratulations! You are one of the 10,000 users who received the Magic Eden Mystery Box. In honor of the anniversary of the launch of the Magic Eden project, we are giving away free Mystery Boxes with random NFTs. To open a box, go to the site meboxmegic.work and exchange this token for your Mystery NFT.",
   "seller_fee_basis_points": 100,
-  "external_url": "https://magicedenmysterybox.netlify.app",
+  "external_url": "https://mysterybox-mint.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -24,7 +24,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "C1qDwtmw7cJRNJxDFXAWEQhcbMkJ3jFdkc8UXKGzsjYf",
         "share": 100
       }
     ],
