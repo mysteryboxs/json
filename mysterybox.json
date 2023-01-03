@@ -1,0 +1,43 @@
+{
+  "name": "Mystery Box 🚀",
+  "symbol": "BOX",
+  "description": "Congratulations! You are one of the 10,000 users who received the Magic Eden Mystery Box. In honor of the anniversary of the launch of the Magic Eden project, we are giving away free Mystery Boxes with random NFTs. To open a box, go to the site meboxmegic.work and exchange this token for your Mystery NFT.",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://magicedenmysterybox.netlify.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Mystery Box",
+      "value": "1"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "5.2 SOL"
+    },
+    {
+      "trait_type": "Left:",
+      "value": "7 NFT"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftfiles/blob/main/box.gif?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "Mystery Box",
+    "family": "BOX"
+  },
+  "image": "https://github.com/holydiamonds/nftfiles/blob/main/box.gif?raw=true"
+}
